@@ -16,7 +16,7 @@ I’m passionate about **software engineering** and enjoy tackling technical cha
 - **TIPE (2022–2024)**: Developed a Poisson-based predictive model for Premier League football scores, optimized through likelihood maximization.
 
 ## 🌍 Languages
-- French (Native)
+- French (Fluent)
 - Arabic (Native)
 - English (C1)
 
