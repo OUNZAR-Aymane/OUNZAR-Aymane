@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Aymane OUNZAR
 
 🎓 First-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 4-week internship for Summer 2025.
