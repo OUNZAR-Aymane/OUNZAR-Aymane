@@ -1,6 +1,6 @@
 # Hi, I'm Aymane OUNZAR
 
-🎓 First-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en), currently seeking a 4-week internship for Summer 2025.
+🎓 First-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en).
 
 I’m passionate about **software engineering** and enjoy tackling technical challenges that demand creative problem-solving and thoughtful design. With a multidisciplinary foundation built during my preparatory classes and at IMT Atlantique, I aim to contribute to impactful projects while continually learning and improving.
 
