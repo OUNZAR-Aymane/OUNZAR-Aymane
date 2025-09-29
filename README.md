@@ -1,12 +1,12 @@
 # Hi, I'm Aymane OUNZAR
 
-🎓 First-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en).
+🎓 Second-year engineering student at [IMT Atlantique](https://www.imt-atlantique.fr/en).
 
 I’m passionate about **software engineering** and enjoy tackling technical challenges that demand creative problem-solving and thoughtful design. With a multidisciplinary foundation built during my preparatory classes and at IMT Atlantique, I aim to contribute to impactful projects while continually learning and improving.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, Java, SQL
-- **Tools**: Git, GitLab, Arduino, LaTeX, MS Office
+- **Languages**: Python, Java, SQL, HTML, CSS, JS
+- **Tools**: Git, Docker
 - **Concepts**: Algorithm design, Data analysis, Embedded systems
 
 ## 🛠️ Notable Projects
